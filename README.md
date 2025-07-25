@@ -40,8 +40,7 @@ npm run dev
 
 ## 🌐 Live Demo
 
-> Coming soon on [Vercel](https://vercel.com/)
-> *(Replace with your deployed link when ready)*
+>  [Link](https://zifhub.vercel.app/))
 
 ---
 
