@@ -47,7 +47,7 @@ npm run dev
 
 ## 📸 Preview
 
-![GifHub Preview](./preview.png)
+![GifHub Preview](./public/preview.png)
 
 ---
 
