@@ -1,4 +1,4 @@
-# GifHub 🎬✨
+# ZifHub 🎬✨
 
 A modern Giphy-style GIF-sharing platform built with **React**, **Tailwind CSS**, and **React Router**. GifHub allows users to explore, search, and share looping GIFs in a sleek, dark-themed interface.
 
@@ -22,22 +22,6 @@ A modern Giphy-style GIF-sharing platform built with **React**, **Tailwind CSS**
 - [Tailwind CSS](https://tailwindcss.com/)
 - [Giphy API](https://developers.giphy.com/) *(or any GIF API you use)*
 
----
-
-## 📁 Folder Structure
-
-```
-src/
-│
-├── components/       # Reusable UI components (Header, Footer, etc.)
-├── pages/            # Page components (Home, Trending, Search...)
-├── routes/           # React Router config and layout
-├── assets/           # Static images, icons
-└── App.jsx           # Main app entry
-```
-
----
-
 ## 📦 Setup Instructions
 
 ```bash
@@ -56,14 +40,14 @@ npm run dev
 
 ## 🌐 Live Demo
 
-> Coming soon on [Vercel](https://vercel.com/) / [Netlify](https://www.netlify.com/)  
+> Coming soon on [Vercel](https://vercel.com/)
 > *(Replace with your deployed link when ready)*
 
 ---
 
 ## 📸 Preview
 
-![GifHub Preview](./assets/preview.png)
+![GifHub Preview](./preview.png)
 
 ---
 
