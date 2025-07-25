@@ -1,12 +1,78 @@
-# React + Vite
+# GifHub 🎬✨
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern Giphy-style GIF-sharing platform built with **React**, **Tailwind CSS**, and **React Router**. GifHub allows users to explore, search, and share looping GIFs in a sleek, dark-themed interface.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## Expanding the ESLint configuration
+- 🔍 Search trending and popular GIFs  
+- 🎥 View looping GIFs with smooth previews  
+- 🌓 Dark mode friendly UI (Tailwind-powered)  
+- 🔁 Infinite scroll / paginated GIF loading  
+- ❤️ Like or Save your favorite GIFs *(optional feature)*  
+- ⚙️ Built using React + React Router DOM  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠 Tech Stack
+
+- [React](https://reactjs.org/)
+- [React Router](https://reactrouter.com/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [Giphy API](https://developers.giphy.com/) *(or any GIF API you use)*
+
+---
+
+## 📁 Folder Structure
+
+```
+src/
+│
+├── components/       # Reusable UI components (Header, Footer, etc.)
+├── pages/            # Page components (Home, Trending, Search...)
+├── routes/           # React Router config and layout
+├── assets/           # Static images, icons
+└── App.jsx           # Main app entry
+```
+
+---
+
+## 📦 Setup Instructions
+
+```bash
+# Clone the repo
+git clone https://github.com/your-username/giphub-app.git
+cd giphub-app
+
+# Install dependencies
+npm install
+
+# Start the dev server
+npm run dev
+```
+
+---
+
+## 🌐 Live Demo
+
+> Coming soon on [Vercel](https://vercel.com/) / [Netlify](https://www.netlify.com/)  
+> *(Replace with your deployed link when ready)*
+
+---
+
+## 📸 Preview
+
+![GifHub Preview](./assets/preview.png)
+
+---
+
+## 📄 License
+
+MIT © [Eswar Chinthakayala](https://github.com/Eswarchinthakayala-webdesign)
+
+---
+
+## 🙌 Contributions
+
+Pull requests welcome! For major changes, please open an issue first to discuss.
