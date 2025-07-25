@@ -1,0 +1,25 @@
+@import "tailwindcss";
+
+@utility gradient
+{
+    @apply bg-gradient-to-r from-[#0f0c29] via-[#302b63] to-[#24243e];
+
+}
+
+@utility faded-text {
+    @apply font-bold text-sm text-gray-400;
+  }
+
+  @utility divider {
+    @apply w-full h-0.5 my-6 bg-gray-800;
+  }
+@utility glass
+{
+    backdrop-filter: blur(16px);
+    background-color: rgba(255, 255, 255, 0.05);
+    border: 1px solid rgba(255, 255, 255, 0.1);
+  
+}
+@utility neon-glow {
+    box-shadow: 0 0 15px #00ffff, 0 0 30px #00ffff;
+  }
