@@ -26,8 +26,8 @@ A modern Giphy-style GIF-sharing platform built with **React**, **Tailwind CSS**
 
 ```bash
 # Clone the repo
-git clone https://github.com/your-username/giphub-app.git
-cd giphub-app
+git clone https://github.com/Eswarchinthakayala-webdesign/ZifHub.git
+cd ZifHub
 
 # Install dependencies
 npm install
